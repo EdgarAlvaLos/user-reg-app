@@ -1,0 +1,8 @@
+el comportamiento normal de una spring app 
+
+1 controller
+2 Service
+3 Interfaz
+4 Modelo
+
+Main Run - UsersAppApplication.Java
